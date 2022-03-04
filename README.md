@@ -47,7 +47,7 @@ C) After successfully creating a data set that contains features describing an a
 
     3) Given the different groups you have created, what would you advise the business to do?  
 
-    4) Besides grouping the addresses, what kind of additional analysis might be helpful for the business? Do one additional analysis which you think might be helpful.
+    4) Last but not least: Train a prediction model that predicts maliciousness based on financial behavior. How good does your model perform? How would you tweak it?
     
     
  # Have fun & blow our minds!
