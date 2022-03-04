@@ -22,7 +22,7 @@ You should touch on the following points:
 
 ## Task 2:   
 
-A) Imagine you work in a Crypto Startup and you want to identify malicious Ethereum addresses. Fortunately, you have found a source with malicious addresses. You can find it here: https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/addresses/addresses-darklist.json 
+A) Imagine you work in a Crypto Startup and you want to identify malicious Ethereum addresses. Fortunately, you have found a source with malicious addresses. You can find it here: https://github.com/kstyppaBMW/CaseStudy/blob/main/malicious_adresses
 
     1) Create a list of the malicious addresses 
 
