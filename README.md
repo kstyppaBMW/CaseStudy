@@ -2,7 +2,7 @@
 
 ##  Task 1:   
 
-Imagine you are a Data Engineer in BMW's Supply Chain Delivery Assurance department. One of the Supply Chain Managers want a risk manager notification system. Especially external factors such as political stability and weather are increasingly important. Describe an approach to solve this problem with an application.
+Imagine you are a Data Engineer in BMW's Supply Chain Delivery Assurance department. One of the Supply Chain Managers wants a risk manager notification system. Especially external factors such as political stability and weather are increasingly important. Describe an approach to solve this problem with an application.
 
 You should touch on the following points:  
 
@@ -18,14 +18,14 @@ You should touch on the following points:
 
     6. What are trade-offs and optimizations in terms of speed and performance? Eloaborate your thoughts and sketch out possible decisions based on assumptions you make.
     
-    7. Logging all risk notifications within the the application could lead to a break down, if a sudden influx of notificaitons is happening. How could we handle this problem.
+    7. Logging all risk notifications within the application could lead to a break down, if a sudden influx of notificaitons is happening. How could we handle this problem.
 
 
    
 
 ## Task 2:   
 
-A) Imagine you work in a Crypto Startup and you want to identify malicious Ethereum addresses. Fortunately, you have found a source with malicious addresses. You can find it here: https://github.com/kstyppaBMW/CaseStudy/blob/main/malicious_adresses
+A) Imagine you work in a Crypto startup and you want to identify malicious Ethereum addresses. Fortunately, you have found a source with malicious addresses. You can find it here: https://github.com/kstyppaBMW/CaseStudy/blob/main/malicious_adresses
 
     1) Create a list of malicious addresses.
 
